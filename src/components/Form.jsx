@@ -615,7 +615,7 @@ function App() {
                   </div>
                 </div>
                 <div class="form-row form-row-1">
-                  <label htmlFor="">Qualification:</label>
+                  <label htmlFor="">Qualification :</label>
                   <input
                     type="text"
                     name="qualification"
